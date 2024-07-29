@@ -1,27 +1,27 @@
 {
-    "name": "LIZARTS #5551",
+    "name": "Hustle King",
     "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
     "image": "https://lizartsworld.com/Lizarts/items/5551.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purp"
+            "value": ""
         },
         {
             "trait_type": "Body",
-            "value": "Standard"
+            "value": ""
         },
         {
             "trait_type": "Head",
-            "value": "Green"
+            "value": ""
         },
         {
             "trait_type": "Cloth",
-            "value": "Plowear Milky"
+            "value": ""
         },
         {
             "trait_type": "Teeth",
-            "value": "Red"
+            "value": ""
         },
         {
             "trait_type": "Chain",
@@ -29,23 +29,23 @@
         },
         {
             "trait_type": "Face Accessory",
-            "value": "Tongue Benzin"
+            "value": ""
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue 2"
+            "value": ""
         },
         {
             "trait_type": "Body Accessory",
-            "value": "Lightnings Orange"
+            "value": ""
         },
         {
             "trait_type": "Hat",
-            "value": "Nimbus Silver"
+            "value": ""
         },
         {
             "trait_type": "Eye Accessory",
-            "value": "Monocular Green"
+            "value": ""
         }
     ]
 }
