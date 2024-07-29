@@ -1,27 +1,27 @@
 {
-    "name": "LIZARTS #5555",
+    "name": "Babushka Boi",
     "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
     "image": "https://lizartsworld.com/Lizarts/items/5555.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": ""
         },
         {
             "trait_type": "Body",
-            "value": "Standard"
+            "value": ""
         },
         {
             "trait_type": "Head",
-            "value": "Green"
+            "value": ""
         },
         {
             "trait_type": "Cloth",
-            "value": "Jacket Tiger"
+            "value": ""
         },
         {
             "trait_type": "Teeth",
-            "value": "Gold"
+            "value": ""
         },
         {
             "trait_type": "Chain",
@@ -29,23 +29,23 @@
         },
         {
             "trait_type": "Face Accessory",
-            "value": "Tongue Red"
+            "value": ""
         },
         {
             "trait_type": "Eyes",
-            "value": "Orange"
+            "value": ""
         },
         {
             "trait_type": "Body Accessory",
-            "value": "Hearts Green"
+            "value": ""
         },
         {
             "trait_type": "Hat",
-            "value": "Hair Red 2"
+            "value": ""
         },
         {
             "trait_type": "Eye Accessory",
-            "value": "Monocular Red"
+            "value": ""
         }
     ]
 }
