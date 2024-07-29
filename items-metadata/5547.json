@@ -1,27 +1,27 @@
 {
-    "name": "LIZARTS #5547",
+    "name": "OG Blood",
     "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
     "image": "https://lizartsworld.com/Lizarts/items/5547.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": ""
         },
         {
             "trait_type": "Body",
-            "value": "Standard"
+            "value": ""
         },
         {
             "trait_type": "Head",
-            "value": "Dino Green"
+            "value": ""
         },
         {
             "trait_type": "Cloth",
-            "value": "Shirt Flowers"
+            "value": ""
         },
         {
             "trait_type": "Teeth",
-            "value": "Silver"
+            "value": ""
         },
         {
             "trait_type": "Chain",
@@ -33,11 +33,11 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue"
+            "value": ""
         },
         {
             "trait_type": "Body Accessory",
-            "value": "Hearts"
+            "value": ""
         },
         {
             "trait_type": "Hat",
@@ -45,7 +45,7 @@
         },
         {
             "trait_type": "Eye Accessory",
-            "value": "Monocular Purp"
+            "value": ""
         }
     ]
 }
