@@ -1,43 +1,43 @@
 {
-    "name": "LIZARTS #5544",
+    "name": "Snow Spirit",
     "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
     "image": "https://lizartsworld.com/Lizarts/items/5544.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": ""
         },
         {
             "trait_type": "Body",
-            "value": "Standard"
+            "value": ""
         },
         {
             "trait_type": "Head",
-            "value": "Yellow"
+            "value": ""
         },
         {
             "trait_type": "Cloth",
-            "value": "Jacket Pink"
+            "value": ""
         },
         {
             "trait_type": "Teeth",
-            "value": "White"
+            "value": ""
         },
         {
             "trait_type": "Chain",
-            "value": "Neon"
+            "value": ""
         },
         {
             "trait_type": "Face Accessory",
-            "value": "Tongue Benzin"
+            "value": ""
         },
         {
             "trait_type": "Eyes",
-            "value": "Orange"
+            "value": ""
         },
         {
             "trait_type": "Body Accessory",
-            "value": "Hearts Green"
+            "value": ""
         },
         {
             "trait_type": "Hat",
@@ -45,7 +45,7 @@
         },
         {
             "trait_type": "Eye Accessory",
-            "value": "Combat Red"
+            "value": ""
         }
     ]
 }
