@@ -1,27 +1,27 @@
 {
-    "name": "LIZARTS #5553",
+    "name": "Cyber Guy",
     "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
     "image": "https://lizartsworld.com/Lizarts/items/5553.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purp"
+            "value": ""
         },
         {
             "trait_type": "Body",
-            "value": "Standard"
+            "value": ""
         },
         {
             "trait_type": "Head",
-            "value": "Steel 2"
+            "value": ""
         },
         {
             "trait_type": "Cloth",
-            "value": "Shirt Red"
+            "value": ""
         },
         {
             "trait_type": "Teeth",
-            "value": "Green"
+            "value": ""
         },
         {
             "trait_type": "Chain",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Blue"
+            "value": ""
         },
         {
             "trait_type": "Body Accessory",
@@ -45,7 +45,7 @@
         },
         {
             "trait_type": "Eye Accessory",
-            "value": "Monocular Green"
+            "value": ""
         }
     ]
 }
