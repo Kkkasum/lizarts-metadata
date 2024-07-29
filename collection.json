@@ -1,7 +1,10 @@
 {
 	"name": "LIZARTS",
 	"description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
-	"image": "https://raw.githubusercontent.com/Spqreeee/Lizarts_NFT/main/avatar.png",
-	"cover_image": "https://raw.githubusercontent.com/Spqreeee/Lizarts_NFT/main/cover.jpg",
-	"social_links": [""]
+	"image": "https://lizartsworld.com/Lizarts/lizarts-metadata/avatar.jpeg",
+	"cover_image": "https://lizartsworld.com/Lizarts/lizarts-metadata/cover.jpg",
+	"social_links": [
+		"https://t.me/Lizarts_Nation",
+		"https://t.me/lizarts_chat_ru"
+	]
 }
