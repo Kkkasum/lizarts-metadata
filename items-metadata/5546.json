@@ -1,27 +1,27 @@
 {
-    "name": "LIZARTS #5546",
+    "name": "Red Devil",
     "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
     "image": "https://lizartsworld.com/Lizarts/items/5546.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": ""
         },
         {
             "trait_type": "Body",
-            "value": "Standard"
+            "value": ""
         },
         {
             "trait_type": "Head",
-            "value": "Dino Green"
+            "value": ""
         },
         {
             "trait_type": "Cloth",
-            "value": "Hoodie Blue"
+            "value": ""
         },
         {
             "trait_type": "Teeth",
-            "value": "White"
+            "value": ""
         },
         {
             "trait_type": "Chain",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Face Accessory",
-            "value": "Bone Alumineum"
+            "value": ""
         },
         {
             "trait_type": "Eyes",
-            "value": "Orange"
+            "value": ""
         },
         {
             "trait_type": "Body Accessory",
@@ -45,7 +45,7 @@
         },
         {
             "trait_type": "Eye Accessory",
-            "value": "Monocular Red"
+            "value": ""
         }
     ]
 }
