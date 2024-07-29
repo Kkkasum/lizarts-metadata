@@ -1,27 +1,27 @@
 {
-    "name": "LIZARTS #5550",
+    "name": "Lizzy Montana",
     "description": "LizArts is a universe where thousands of powerful NFT lizards are fighting to revive civilization. All NFT owners will have unique utilities in the LizArts project.",
     "image": "https://lizartsworld.com/Lizarts/items/5550.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": ""
         },
         {
             "trait_type": "Body",
-            "value": "Standard"
+            "value": ""
         },
         {
             "trait_type": "Head",
-            "value": "Matrix"
+            "value": ""
         },
         {
             "trait_type": "Cloth",
-            "value": "Shirt Pattern"
+            "value": ""
         },
         {
             "trait_type": "Teeth",
-            "value": "White"
+            "value": ""
         },
         {
             "trait_type": "Chain",
@@ -33,19 +33,19 @@
         },
         {
             "trait_type": "Eyes",
-            "value": "Green"
+            "value": ""
         },
         {
             "trait_type": "Body Accessory",
-            "value": "Lightnings Blue"
+            "value": ""
         },
         {
             "trait_type": "Hat",
-            "value": "Panama Pattern"
+            "value": ""
         },
         {
             "trait_type": "Eye Accessory",
-            "value": "Combat Orange"
+            "value": ""
         }
     ]
 }
